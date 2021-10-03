@@ -152,6 +152,7 @@ h2 {
 #gallery img{
     width: 100%;
     height: 100%;
+    object-fit: cover;
 }
 #gallery .row div{
     padding: 1% 1.5%;
